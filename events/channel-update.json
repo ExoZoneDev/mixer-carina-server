@@ -1,0 +1,21 @@
+{
+    "slug": "channel:{id}:update",
+    "events": [
+        {
+            "online": true,
+            "title": "My awesome stream.",
+            "typeId": 127929
+        },
+        {
+            "online": false,
+            "title": "My not so awesome stream"
+        },
+        {
+            "typeId": 102279,
+            "type": {
+                "id": 127929,
+                "name": "Minecraft"
+            }
+        }
+    ]
+}

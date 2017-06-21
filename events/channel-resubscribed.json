@@ -1,0 +1,23 @@
+{
+    "slug": "channel:{id}:resubscribed",
+    "events": [
+        {
+            "user": {
+                "id": 693,
+                "name": "artdude543"
+            },
+            "since": "2017-01-21T19:52:48.726Z",
+            "until": "2017-07-21T19:52:48.726Z",
+            "totalMonths": 5
+        },
+        {
+            "user": {
+                "id": 271,
+                "name": "Chikachi"
+            },
+            "since": "2017-05-21T19:52:48.726Z",
+            "until": "2017-07-21T19:52:48.726Z",
+            "totalMonths": 1
+        }
+    ]
+}

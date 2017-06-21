@@ -1,0 +1,33 @@
+{
+  "name": "mixer-carina-server",
+  "version": "1.0.0",
+  "description": "Creates a fake Carina server to allow apps to test subscriptions and events.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "tsc && ava"
+  },
+  "keywords": [
+    "Carina",
+    "Server",
+    "Socket"
+  ],
+  "author": "Kieron Richardson <artdude543@hotmail.co.uk>",
+  "license": "AGPL-3.0",
+  "devDependencies": {
+    "@types/config": "0.0.32",
+    "@types/glob": "^5.0.30",
+    "@types/node": "^8.0.1",
+    "@types/uuid": "^3.0.0",
+    "@types/ws": "^3.0.0",
+    "ava": "^0.19.1",
+    "tslint": "^4.3.1",
+    "tslint-microsoft-contrib": "^4.0.0",
+    "typescript": "^2.3.4"
+  },
+  "dependencies": {
+    "config": "^1.26.1",
+    "glob": "^7.1.2",
+    "uuid": "^3.1.0",
+    "ws": "^3.0.0"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "slug": "channel:{id}:subscribed",
+    "events": [
+        {
+            "user": {
+                "id": 693,
+                "name": "artdude543"
+            }
+        },
+        {
+            "user": {
+                "id": 271,
+                "name": "Chikachi"
+            }
+        }
+    ]
+}

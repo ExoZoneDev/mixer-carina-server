@@ -1,0 +1,26 @@
+{
+    "slug": "channel:{id}:unhosted",
+    "events": [
+        {
+            "hosterId": 587,
+            "hoster": {
+                "id": 587,
+                "token": "artdude543"
+            }
+        },
+        {
+            "hosterId": 244,
+            "hoster": {
+                "id": 244,
+                "token": "Chikachi"
+            }
+        },
+        {
+            "hosterId": 1291,
+            "hoster": {
+                "id": 1291,
+                "token": "alfw"
+            }
+        }
+    ]
+}

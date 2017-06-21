@@ -1,0 +1,29 @@
+{
+    "slug": "channel:{id}:followed",
+    "events": [
+        {
+            "following": true,
+            "user": {
+                "id": 693,
+                "username": "artdude543",
+                "verified": true
+            }
+        },
+        {
+            "following": false,
+            "user": {
+                "id": 693,
+                "username": "artdude543",
+                "verified": true
+            }
+        },
+        {
+            "following": true,
+            "user": {
+                "id": 18074,
+                "username": "TestUser",
+                "verified": false
+            }
+        }
+    ]
+}
